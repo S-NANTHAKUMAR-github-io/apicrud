@@ -1,0 +1,9 @@
+.outer{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.btn{
+    display: inline-flex;
+    margin: 10px !important;
+}
